@@ -1,4 +1,4 @@
-# 📚 Smart Study Planner
+# 📚 PREPPILOT
 
 A Python desktop application that creates personalized study schedules based on available study time, subject difficulty, priority, and user mood.
 
